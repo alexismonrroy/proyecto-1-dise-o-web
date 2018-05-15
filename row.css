@@ -1,7 +1,11 @@
 .row{
   font-size: 18px;
+  
 }
 #formulario{
   background-color: #212F3C;
   color:#f8f8ff;
+}
+body{
+  background-image: "musica.jpg" ;
 }
